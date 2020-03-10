@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName admin
+AuthUserFile  /domains/magazine/pwdaccess
+require valid-user
